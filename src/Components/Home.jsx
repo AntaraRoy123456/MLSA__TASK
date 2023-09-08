@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/software.jpg";
+import image from "../images/pics.jpg";
 
-const imageAltText = "Software related"
+const imageAltText = "Me on stage with prize."
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
