@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a CSE stdent .";
+  "I am a web developer and an app developer.I want to know about new Technologies .";
 
 /**
  * List of some of skills or technologies you work on, are learning,
