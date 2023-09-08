@@ -32,8 +32,7 @@ const description =
  */
 const skillsList = [
   "Web developer",
-  "App developer",
-  "Knoledge about Artificial Intelligence",
+  "Knowledge about Artificial Intelligence",
   "Knowledge about Machine Learning",
   "Data analyst",
   "Computer and technology related knowledge",
