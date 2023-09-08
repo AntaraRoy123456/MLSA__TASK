@@ -41,10 +41,9 @@ const projectList = [
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
-    Home.defaultProps = {
-      name: "Antara Roy",
-      title: "my webpage",
-    };
+  },
+  {
+    title: "My webside",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
